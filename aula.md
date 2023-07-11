@@ -2,24 +2,31 @@
 marp: true
 theme: default
 paginate: skip
-background-color:
 
 style: |
   section {
     color: 
     font-family: "Montserrat", sans-serif;
+    background-color: #fff;
   }
 ---
 
 ## Vanessa
 
-![w:300 bg left](vanessa.png)
+![w:300 bg left](./images/vanessa.png)
+
+Aluna da Turma SouDevMulheres
 
 ---
 
 ## Maritana Alves
 
-![w:300 bg left](mari.png) | Lin
+![w:300 bg left](./images/mari.png)
+
+Monitora na Digital College
+Estagiária na Softlog
+Linkedin: MaritanaAlves
+GitHub: MaritanaAlves
 
 ---
 
@@ -34,3 +41,30 @@ style: |
 <!--Mostrar um site funcionando, acessar: https://digitalcollege.com.br/-->
 
 ---
+
+# Estrutura básica do HTML
+
+```C
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <title>Primeiro Projeto</title>
+  </head>
+  <body>
+    <p>Olá Mundo!</p>
+  </body>
+</html>
+```
+
+<!--
+- <!DOCTYPE HTML> Essa declaração informa ao navegador que o documento está escrito em HTM5, a versão mais recente e amplamente usada do HTML.
+Na versão anterior do HTML, a declaração do Doctype era mais extensa e difícil de decorar, havendo a necessidade de referenciar para o navegador o arquivo DTD com as definições daquela especificação.
+- <html lang="pt=br"> É a tag principal, que comporta todos os outros elementos filhos, é nessa tag que declaramos o idioma principal do documento, através do atributo lang
+- <head> providencia informações gerais (metadados) sobre o documento, incluindo seu título e links para scripts e folhas de estilos. UTF-8, o padrão de codificação mais utilizado. <title> Título mostrado na aba da página.
+- <body> É onde fica todo o conteúdo visível da página . Aqui é onde incluímos cabeçalhos, parágrafos, imagens, links e todos os outros elementos que queremos que os visitantes vejam na página.
+-->
+
+---
+
+# Tags HTML
