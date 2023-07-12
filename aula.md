@@ -30,11 +30,21 @@ GitHub: MaritanaAlves
 
 ---
 
+# Objetivos
+
+---
+
 # Introdução ao HTML
 
 ## HTML (hypertext Markup Language)
 
 É a linguagem de marcação padrão para criação de páginas web. Ele é essencial para estruturar e organizar o conteúdo das páginas que visitamos diariamente na internet.
+
+<div align="center">
+
+![w:600 center](./images/o-que-e-HTML.png)
+
+</div>
 
 <!--O HTML desempenha um papel fundamental no desenvolvimento web, permitindo que criemos, links, títulos, parágrafos, imagens e vários outros elementos que compõem as páginas web. Ele trabalha em conjunto com o CSS para definir a aparência desses elementos e com o JavaScript para adicionar interatividade e funcionalidades às páginas. -->
 
@@ -67,4 +77,14 @@ Na versão anterior do HTML, a declaração do Doctype era mais extensa e difíc
 
 ---
 
-# Tags HTML
+# Tags < HTML >
+
+![w:8000 center](./images/mdn_anatomia_de_um_elemento_html.png)
+
+<!--
+A anatomia de um elemento HTML é formada pela tag de abertura, tag de fechamento, o atributo e valor do atributo, e o conteúdo que será exibido.
+-->
+
+---
+
+#
