@@ -10,6 +10,16 @@ style: |
   }
 ---
 
+
+
+<div>
+
+# Introdução ao HTML
+
+</div>
+
+---
+
 ## Vanessa de Araujo
 
 ![w:300 bg left](./images/vanessa.png)
@@ -86,6 +96,29 @@ LinkedIn: MaritanaAlves
 - <head> providencia informações gerais (metadados) sobre o documento, incluindo seu título e links para scripts e folhas de estilos. UTF-8, o padrão de codificação mais utilizado. <title> Título mostrado na aba da página.
 - <body> É onde fica todo o conteúdo visível da página . Aqui é onde incluímos cabeçalhos, parágrafos, imagens, links e todos os outros elementos que queremos que os visitantes vejam na página.
 -->
+
+---
+
+ # Introdução ao HTML
+ ![w:500 bg right](./images/homerduvida.gif)
+
+ <div style="font-size: 2.0em; text-align: center; border: 5px solid #4885aa; margin-top: 1.2em; padding: 20px;"><strong>
+
+  Onde editamos o nosso código?
+
+ </strong></div>
+
+---
+
+ # Introdução ao HTML
+
+ <div style="font-size: 3.0em; color: #005690; text-align: center; padding: 20px;"><strong>
+
+  Visual Studio Code (VSCode)
+
+ </strong></div>
+
+ <!-- levar eles para ver o vscode na nossa tela -->
 
 ---
 
