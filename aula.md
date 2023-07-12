@@ -87,4 +87,63 @@ A anatomia de um elemento HTML é formada pela tag de abertura, tag de fechament
 
 ---
 
-#
+# Tags HTML
+## Títulos
+```C
+<h1>Título 01</h1>
+<h2>Título 02</h2>
+<h3>Título 03</h3>
+<h4>Título 04</h4>
+<h5>Título 05</h5>
+<h6>Título 06</h6>
+```
+
+<!-- esses são os níveis de títulos html, sendo o h1 de maior importância e o h6 de menor. ajudam na semântica do código -->
+---
+# Tags HTML
+```C
+<p>Este é um paragráfo!</p>
+
+<a href="https://digitalcollege.com.br/"
+target="_blank">site da digital college</a>
+
+<strong>Texto negrito</strong>
+<em>texto itálico</em>
+<u>Texto Sublinhado</u>
+
+<img src"vanessa.png">
+
+<br>quebras de linhas
+```
+
+<!-- tag a é um elemento âncora, ela junto com o href nos ajuda a marcar os links para qualquer coisa. como imagem, algum site como esse exemplo da digital college -->
+<!-- tags <strong>, <em> e <u> servem para dar importância ao texto. a tag <strong> deixa o texto em negrito, o <em> deixa itálico e o <u> deixa sublinhado -->
+<!-- o <img> nos possibilita inserir imagens ao nosso documento HTML junto com essa tag vem o src(resource), que é o recurso onde apontamos a localização dessa imagem -->
+<!-- o <br> faz uma quebra de linha  -->
+---
+
+# Tags HTML
+Listas não ordenadas
+```C
+<ul>
+  <li>Maçã</li>
+  <li>Pera</li>
+</ul>
+```
+Listas ordenadas
+```C
+<ol>
+  <li>primeiro</li>
+  <li>segundo</li>
+</ol>
+```
+<!-- listas não ordenadas são listas que não numeradas. listas ordenadas são listas numeradas. nos ajudam a deixar o texto mais organizado e bonito -->
+---
+# Vamos praticar?
+
+<div align="center">
+
+![w:800 center](./images/bobesponja.gif)
+
+</div>
+
