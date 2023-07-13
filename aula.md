@@ -10,8 +10,6 @@ style: |
   }
 ---
 
-
-
 <div>
 
 # Introdução ao HTML
@@ -24,9 +22,9 @@ style: |
 
 ![w:300 bg left](./images/vanessa.png)
 
-Desenvolvedora FrontEnd
+Desenvolvedora Front End
 Ex Aluna da Turma SouDevMulheres
-LinkeIn: VanessaAraujoV
+LinkedIn: VanessaAraujoV
 
 ---
 
@@ -34,7 +32,7 @@ LinkeIn: VanessaAraujoV
 
 ![w:300 bg left](./images/mari.png)
 
-Desenvolvedora FullStack
+Desenvolvedora Full Stack
 Monitora na Digital College
 Estagiária na Softlog
 LinkedIn: MaritanaAlves
@@ -53,6 +51,8 @@ LinkedIn: MaritanaAlves
 
 - Computador com acesso à internet e um navegador;
 - Editor de Texto (VSCode).
+
+<!-- falar que mais pra frente a gente vai aprender a usar o vscode>-->
 
 ---
 
@@ -99,24 +99,25 @@ LinkedIn: MaritanaAlves
 
 ---
 
- # Introdução ao HTML
- ![w:500 bg right](./images/homerduvida.gif)
+# Introdução ao HTML
+
+![w:500 bg right](./images/homerduvida.gif)
 
  <div style="font-size: 2.0em; text-align: center; border: 5px solid #4885aa; margin-top: 1.2em; padding: 20px;"><strong>
 
-  Onde editamos o nosso código?
+Onde editamos o nosso código?
 
- </strong></div>
+</strong></div>
 
 ---
 
- # Introdução ao HTML
+# Introdução ao HTML
 
  <div style="font-size: 3.0em; color: #005690; text-align: center; padding: 20px;"><strong>
 
-  Visual Studio Code (VSCode)
+Visual Studio Code (VSCode)
 
- </strong></div>
+</strong></div>
 
  <!-- levar eles para ver o vscode na nossa tela -->
 
@@ -128,6 +129,8 @@ LinkedIn: MaritanaAlves
 
 <!--
 A anatomia de um elemento HTML é formada pela tag de abertura, tag de fechamento, o atributo e valor do atributo, e o conteúdo que será exibido.
+
+tags vazias
 -->
 
 ---
@@ -166,7 +169,7 @@ target="_blank">site da digital college</a>
 <em>texto itálico</em>
 <u>Texto Sublinhado</u>
 
-<img src"vanessa.png">
+<img src"vanessa.png" alt="foto da Vanessa">
 
 <br>quebras de linhas
 ```
@@ -177,6 +180,21 @@ target="_blank">site da digital college</a>
 <!-- o <img> nos possibilita inserir imagens ao nosso documento HTML junto com essa tag vem o src(resource), que é o recurso onde apontamos a localização dessa imagem -->
 
 <!-- o <br> faz uma quebra de linha  -->
+
+---
+
+# Tags HTML
+
+```C
+<div>
+  <p>Este é um paragráfo!</p>
+
+  <a href="https://digitalcollege.com.br/"
+  target="_blank">site da digital college</a>
+
+  <img src"vanessa.png" alt="foto da Vanessa">
+</div>
+```
 
 ---
 
@@ -213,3 +231,9 @@ Listas ordenadas
 </div>
 
 ---
+
+![Alt text](./images/image-1.png)
+
+---
+
+![Alt text](./images/withstyle.png)
